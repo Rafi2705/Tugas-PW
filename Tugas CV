@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>CURICULUM VITAE</title>
+
+    </head>
+    <body>
+        <h1 align=center>CURICULUM VITAE</h1>
+        
+    <!--INFORMASI DATA DIRI-->
+        <hr>
+        <b> INFORMASI PRIBADI</b>
+        <hr>
+        <table style="width:65%">
+            <!--FOTO-->
+            <img src="a.jpg" align="right" width="114" height=" 160">
+        <tr>
+        <th></th>
+        <th></th>
+        </tr>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>: Muhamad Rafi Yulian </td>
+        </tr>
+        <tr>
+            <td>Tempat Tanggal Lahir </td>
+            <td>: Tangerang, 27 mei 2003 </td>  
+        </tr>
+            <td>Alamat</td>
+            <td>: GRIYA YASA LESTARI G3/03 RT006/021 BOJONG GEDE BOGOR </td>
+        <tr >
+            <td>Status</td>
+            <td>: Mahasiswa</td>
+        </tr>
+            <tr>
+                <td>Agama</td>
+                <td>: Islam Sunni</td>
+            </tr>
+            <tr>
+            <td>No. HP</td>
+            <td>: 085777456596</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>: rafiyulian@gmail.com</td>
+        </tr>
+        </table>
+    <!--RIWAYAT PENDIDIKAN FORMAL-->  
+            <hr>
+            <b>PENDIDIKAN FORMAL</b>
+            <hr>
+                <table style="width:57%">
+            <tr>
+            <th></th>
+            <th></th>
+            </tr>
+            <tr>
+                <td>2007-2008</td>
+                <td>TK Jerapah Kecil 1</td>
+            </tr>
+            <tr>
+                <td>2009-2014</td>
+                <td>Sekolah Alam Kebon Maen</td>  
+            </tr>
+                <td>2015-2018</td>
+                <td>SMP TQT Madinatul Qur'an</td>
+            <tr>
+                <td>2019-2021</td>
+                <td>Quadrant Boarding School</td>
+            </tr>
+            </table>
+        <!--PENGALAMAN ORGANISASI-->
+            <hr>
+            <b>PENGALAMAN ORGANISASI</b>
+            <hr>
+            <table style="width: 112%">
+                <tr>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <td>2017-2018</td>
+                    <td>OSPMQ. Organisasi Santri Pesantren Madinatul Qur'an. Setara OSIS</td>
+                </tr>
+                <tr>
+                    <td>2020-2021</td>
+                    <td>OSQBS. Organisasi Santri Quadrant Boarding School. Setara OSIS</td>
+                </tr>
+                </table>
+
+            <hr/>
+        <h3 align="center">Jadwal Kuliah</h3>
+        <table border="1" width="100%">
+            <thead>
+                <tr>
+                    <th>Hari</th><th>Jam kuliah</th><th>Mata Kuliah</th><th>Dosen</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Senin</td><td>13.00-15.00</td><td>Sistem Operasi</td><td>Dr. Lukman Rosyidi, M.T, M.M.</td>
+                    
+               </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Selasa</td><td>08.00-10.00</td><td>Pemrograman Web 1</td><td>Sirojul Munir, S.SI, .Kom</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Selasa</td><td>13.00-14.30</td><td>Pembentukan Karakter</td><td>Yessy Nur Handayani, S,Kom, M.TI.</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Selasa</td><td>15.00-16.30</td><td>Bahasa Indonesia</td><td>Drs Rusmanto, M.M</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Rabu</td><td>08.00-09.30</td><td>Pendidikan Agama</td><td>Aqil Wildan, M.Kom.</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Rabu</td><td>13.00-15.30</td><td>Pengantar Teknologi Informasi</td><td>Amalia Rahmah, S.T., M.T.</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Jumat</td><td>08.00-10.30</td><td>Matematika Komputer</td><td>Yahya Zulkarnain, S.T.</td>
+                </tr>
+            </tbody>
+            <tbody>
+                <tr>
+                    <td>Jumat</td><td>13.30-16.00</td><td>Dasar-Dasar Pemrograman</td><td>Indra Hermawan, S.Kom, M.Kom</td>
+                </tr>
+            </tbody>
+    
+    </body>
+</html>
