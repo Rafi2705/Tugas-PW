@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="Indonesia">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Goose Bistro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="body02">
+    <h1><align><center>Terima Kasih</center></align></h1><hr color="Darkcyan">
+    Terima kasih telah memesan cilor dari kami. <br> Berikut pesanan kamu :
+    <p class="YourInformation">Data Pribadi</p>
+    <strong>Nama</strong>: Repek <br>
+    <strong>Alamat</strong>: Langit Kayangan <br>
+    <strong>No. WhatsApp</strong>: 0857 7745 6596 <br>
+    <strong>Jenis</strong>: CILOR <br>
+    <br>
+
+    <strong>Pesan Tambahan</strong>: Tidak Ada<br>
+    <p class="Cilor">Cilor Kamu Ni</p>
+    <strong>Tingkat Kepedasan</strong>: Super Hot ++, Pedes Kek Omongan Tetangga <br>
+    <strong>Rasa</strong>: Manis, Gurih, Pedas <br>
+    <strong>Number</strong>: 2 <br>
+    <hr color="Darkorange">
+    <p class="Reminder">Terima Kasih Telah Memesan Di Website Kami</p>.
+
+    
+</body>
