@@ -1,0 +1,134 @@
+!DOCTYPE html>
+<html>
+<head>
+    <h2>Cilor On the road | Aci Pake telor OTR</h2>
+    <p1>Form pemesanan cilor online, Silakan pilih dan pesan sesuai selera kamyu.</p1> 
+    <br>
+    <p1>Disini tidak hanya menyediakan cilor, tetapi juga ada beberapa menu pilihan lain.</p1>
+</br>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Form Menarik</title>
+</head>
+<body>
+<div class="form-style-3">
+<form>
+<fieldset><legend>Informasi Pribadi</legend>
+  <label for="field1"><span>Nama <span class="required">*</span></span><input type="text" class="input-field" name="field1" value="" /></label>
+  <label for="field2"><span>Alamat <span class="required">*</span></span><input type="email" class="input-field" name="field2" value="" /></label>
+  <label for="field3"><span>Nomer WhatsApp <span class="required">*</span></span><input type="text" class="input-field" name="field3" value="" /></label>
+  <label for="field4"><span>PILIH YG PALING KAMU SUKAK</span><select name="field4" class="select-field">
+  <option value="Cilor">Cilor</option>
+  <option value="Seblak Hot">Seblak Super hot</option>
+  <option value="Telor Gulung">Telor Gulung Abang-Abang</option>
+</select></label>
+</fieldset>
+<fieldset><legend>Pesan Tambahan</legend>
+  <label for="field6"><span>Pesan <span class="required">*</span></span><textarea name="field6" class="textarea-field"></textarea></label>
+  <label><span>&nbsp;</span><input type="submit" value="Tambahkan"/></label>
+</fieldset>
+</form>
+</div>
+<form action="proses.php" method="get">
+    <p>Tingkat Kepedasan :</p>
+    <p><input type='checkbox' name='bahasa1' value='php' />Super Hot ++</p>
+    <p><input type='checkbox' name='bahasa2' value='asp' />Hot Lada Hitam</p>
+    <p><input type='checkbox' name='bahasa3' value='jsp' />Hot Bumbu Aida</p>
+    <p><input type='checkbox' name='bahasa3' value='jsp' />Hot Ala Bon Cabe Lvl 30</p>
+    <p><input type='checkbox' name='bahasa3' value='jsp' />Hot Bon Cabe Cemen Lvl 1</p>
+    <p><input type='checkbox' name='bahasa3' value='jsp' />Pedes Kek Omongan Tetangga</p>
+    
+</form>
+
+<form action="proses.php" method="get">
+    <p>Rasa :</p>
+    <p><input type='checkbox' name='ntah' value='pedes' />Pedas Di Lidah</p>
+    <p><input type='checkbox' name='ntah' value='assin' />Asin Di mulut</p>
+    <p><input type='checkbox' name='ntah' value='gurih' />Gurih wenak</p>
+    <p><input type='checkbox' name='ntah' value='blok' />Rumput tetangga akan selalu terlihat lebih hijau</p>
+    </form>
+
+    <label>Jumlah Pesanan <input type="number" name="Pesanan" min="1" max="5"></label>
+    <br>
+    <input type='submit' name='tombol' value='Kirim' />
+    </br>
+
+
+
+<style type="text/css">
+    .form-style-3{
+        max-width: 450px;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    }
+    .form-style-3 label{
+        display:block;
+        margin-bottom: 10px;
+    }
+    .form-style-3 label > span{
+        float: left;
+        width: 100px;
+        
+        font-weight: bold;
+        font-size: 13px;
+        text-shadow: 1px 1px 1px #fff;
+    }
+    .form-style-3 fieldset{
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        margin: 0px 0px 10px 0px;
+        border: 1px solid ;
+        padding: 20px;
+        
+        
+    }
+    .form-style-3 fieldset legend{
+        color: #131212;
+        border-top: 1px solid #FFD2D2;
+        border-left: 1px solid #FFD2D2;
+        border-right: 1px solid #FFD2D2;
+        border-radius: 5px 5px 0px 0px;
+        -webkit-border-radius: 5px 5px 0px 0px;
+        -moz-border-radius: 5px 5px 0px 0px;
+       
+        padding: 0px 8px 3px 8px;
+        box-shadow: -0px -1px 2px #F1F1F1;
+        -moz-box-shadow:-0px -1px 2px #F1F1F1;
+        -webkit-box-shadow:-0px -1px 2px #F1F1F1;
+        font-weight: normal;
+        font-size: 12px;
+    }
+    .form-style-3 textarea{
+        width:250px;
+        height:100px;
+    }
+    .form-style-3 input[type=text],
+    .form-style-3 input[type=date],
+    .form-style-3 input[type=datetime],
+    .form-style-3 input[type=number],
+    .form-style-3 input[type=search],
+    .form-style-3 input[type=time],
+    .form-style-3 input[type=url],
+    .form-style-3 input[type=email],
+    .form-style-3 select, 
+    .form-style-3 textarea{
+        border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border: 1px solid ;
+        outline: none;
+        
+    }
+    .form-style-3  input[type=submit],
+    .form-style-3  input[type=button]{
+       
+    }
+    .form-style-3 .required{
+        
+        font-weight:normal;
+    }
+    </style>
+
+</body>
+</html>
