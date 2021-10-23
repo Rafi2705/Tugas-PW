@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Cart</title>
+    
+    <h3 align="left">Site Name</h3>
+    <p style=”text-align:center”>Category 1|Category 2|Category 3</p>
+
+  <hr>
+  </head>
+
+<body>
+
+    <h4> order 12345678</h4>
+    <h2>Thank you Rafii!</h2>
+    <hr>
+    <h4>Orderan anda sudah kami konfirmasi</br>
+    Kami akan segera menyiapkan pesanan anda</h4>
+    <hr>
+    <h2>Informasi Pemesan</h2>
+</body>
