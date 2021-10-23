@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Cart</title>
+    
+    <h3 align="left">Site Name</h3>
+    <p style=”text-align:center”>Category 1|Category 2|Category 3</p>
+
+  <hr>
+
+
+    
+    
+
+  </head>
+  <body>
+    <h2>Your Cart</h2>
+    <hr>
+    <h4>Item       Price       Quantity</h4>
+    <hr>
+    <img src="rabbani.jpeg" alt="upload image" width="300px">
+    <h4>Kemko</br>
+    Size Small</h4>
+    <h3>Rp.100.000</h3>
+    <label>Jumlah Pesanan <input type="number" name="Pesanan" min="1" max="5"></label>
+    <hr>
+    <h4>Subtotal : Rp.100.000</h4>
+    <hr>
+
+    <tr>
+      <td><input type="Submit" value="Checkout"</td>
+  </tr>
+   
+
+
+  </body>
+</html>
